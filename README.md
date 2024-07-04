@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gülsüm</h1>
-<h1 align="center">Computer Engineering student at Uludag University</h1>
+<h2 align="center">Computer Engineering student at Uludag University</h2>
 
 - 🔭 I’m currently working on **improving my skills.**
 
